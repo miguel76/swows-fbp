@@ -1,0 +1,22 @@
+{
+  "name": "swows-fbp",
+  "version": "1.0.0",
+  "description": "A Flow-Based Programming network protocol implementation for SWOWS platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguel76/swows-fbp.git"
+  },
+  "author": "miguel.ceriani@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguel76/swows-fbp/issues"
+  },
+  "homepage": "https://github.com/miguel76/swows-fbp",
+  "dependencies": {
+    "noflo-runtime-base": "^0.2.16"
+  }
+}
